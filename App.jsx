@@ -4,7 +4,6 @@
  * @format
  */
 
-import React from 'react';
 import {SafeAreaView, StyleSheet} from 'react-native';
 import ToDoList from './components/ToDoList';
 import ToDoForm from './components/ToDoForm';

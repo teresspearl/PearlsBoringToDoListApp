@@ -1,4 +1,3 @@
-import React from 'react';
 import {StyleSheet, ScrollView, Pressable, View, Text} from 'react-native';
 
 function ToDoList({tasks}) {
